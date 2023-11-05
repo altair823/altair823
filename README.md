@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on `C++` and `Rust`, `Java`
 - 🌱 I’m currently learning `Spring`
-- 📫 How to reach me: `
+- 📫 How to reach me: 
     - Email: kimth0734@gmail.com
 
 
