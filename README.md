@@ -3,8 +3,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on `Java`, and `Kotlin`
-- 🌱 I’m currently learning `Spring Boot` and `MongoDB`
+- 🔭 I’m currently working on `Typescript`
+- 🌱 I’m currently learning `NestJS` and `NextJS`
 - 📫 How to reach me: 
     - Email: kimth0734@gmail.com
     - Blog: https://altair823.tistory.com
