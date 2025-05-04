@@ -3,8 +3,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on `Typescript`
-- 🌱 I’m currently learning `NestJS` and `NextJS`
+- 🔭 I’m currently working on `Typescript` and `Java`
+- 🌱 I’m currently learning `NextJS`, `React` and `Spring Boot`
 - 📫 How to reach me: 
     - Email: kimth0734@gmail.com
     - Blog: https://altair823.tistory.com
