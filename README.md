@@ -3,12 +3,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on `Typescript` and `Java`
-- 🌱 I’m currently learning `NextJS`, `React` and `Spring Boot`
+- 🔭 I’m currently working on `Kotlin` and `Python`
+- 🌱 I’m currently learning `Spring Boot` and `k8s`
 - 📫 How to reach me: 
     - Email: kimth0734@gmail.com
     - Blog: https://altair823.tistory.com
-    - Personal Wiki: <a href="https://kupywiki.duckdns.org"><img src="https://img.shields.io/badge/wiki.js-%231976D2.svg?style=flat&logo=wikidotjs&logoColor=white"/></a>
 
 
 
