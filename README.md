@@ -1,6 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altair823&langs_count=6&hide=html,css,scss,makefile,cmake,liquid)
-
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on `Kotlin` and `Python`
